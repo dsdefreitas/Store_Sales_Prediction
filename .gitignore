@@ -128,3 +128,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.gitattributes
+.idea/
+api/
+rossmann-telegram-api/
+webapp/
