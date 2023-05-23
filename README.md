@@ -155,7 +155,7 @@ A resposta para a questão do CFO é apresentada a seguir em valor agregado (som
 
 | Cenário       | Valores             | 
 | :---           | ---:               | 
-| Predições    |  $ 285,817,920.00  |  
+| Predição    |  $ 285,817,920.00  |  
 | Pior Cenário |  $ 284,955,855.73	  | 
 | Melhor Cenário  |  $ 286,679,971.81   |  
 
@@ -173,7 +173,7 @@ A previsão de cada loja para as próximas 6 semanas pode ser acessada em um Tel
 
 #### Acesso aos repositórios em produção
 
-[Clique aqui para acessar o repositório da API do Modelo em Produção](https://github.com/dsdefreitas/sales_prediction_app)  
+[Clique aqui para acessar o repositório da API do Modelo em produção](https://github.com/dsdefreitas/sales_prediction_app)  
 [Clique aqui para acessar o repositório da API do Telegram Bot em produção](https://github.com/dsdefreitas/rossmann-telegram-bot) 
 
 --------------------------
