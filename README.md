@@ -161,18 +161,20 @@ A resposta para a questão do CFO é apresentada a seguir em valor agregado (som
 
 Considerando as 1115 lojas, resulta-se uma média de $ 256338/loja nas próximas 6 semanas.
 
+--------------------------
+
 #### Acesso ao produto de dados
 
 A previsão de cada loja para as próximas 6 semanas pode ser acessada em um Telegram Bot. A solução foi pensada baseada na praticidade dos resultados poderem ser acessados em qualquer lugar, com qualquer dispositivo conectado à internet. Para se ter a previsão das vendas nas próximas 6 semanas, digite o id da loja desejada. 
 
-[Clique aqui para conversar com o Telegram Bot](t.me/df_rossmann_bot) 
+[Clique aqui para conversar com o Telegram Bot](https://t.me/df_rossmann_bot) 
 
 --------------------------
 
 #### Acesso aos repositórios em produção
 
 [Clique aqui para acessar o repositório da API do Modelo em Produção](https://github.com/dsdefreitas/sales_prediction_app)  
-[Clique aqui para acessar o repositório em produção da API do Telegram Bot](https://github.com/dsdefreitas/rossmann-telegram-bot) 
+[Clique aqui para acessar o repositório da API do Telegram Bot em produção](https://github.com/dsdefreitas/rossmann-telegram-bot) 
 
 --------------------------
 
